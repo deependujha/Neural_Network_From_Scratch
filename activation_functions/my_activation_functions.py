@@ -1,5 +1,5 @@
 """
-    Implementation of different activation functions in Deep Learning 😎    
+    Implementation of different activation functions in Deep Learning 😎
 """
 import numpy as np
 
